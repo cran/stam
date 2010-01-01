@@ -1,0 +1,13 @@
+Log file 
+
+Version 0.0-1 2010-01-01
+============================
+I begin to write the stam package, beta version 0.0-1.
+Following functions were written:
+ DateConversion: Conversion between Different Date Format
+ stkde.base: Spatio-Temporal Kernel Density Estimation
+ stkde:    Spatio-Temporal Kernel Density Estimation with density contours
+ stkde.sig: Spatio-Temporal Kernel Density Estimation with Significant P-Value contours
+ UorL: Converting all the letters of Character variable into uppercase or lowercase
+
+

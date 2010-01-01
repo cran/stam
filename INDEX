@@ -1,0 +1,52 @@
+stam package  (Version 0.0-1; 2010-01-01)
+=========================================================================
+
+This is the beta version 0.0-1 for Spatio-Temporal Analysis and Modelling
+distributed with our group's reserach developments.The author would like 
+to thank those users who contributed generously their codes to this package,
+pointed out errors, possible improvements and suggestions/help to optimize 
+the code. 
+Any further errors found should be reported to the author at the address 
+below for possible correction in the next version.
+
+=========================================================================
+
+The package contains the following functions, all of which have online help available.
+--------------------------------------------------------------------------------------
+
+DateConversion      Conversion between Different Date Format
+
+stkde		        Spatio-Temporal Kernel Density Estimation with density contours
+
+stkde.sig           Spatio-Temporal Kernel Density Estimation with Significant P-Value contours
+
+UorL                Converting all the Letters of Character Variable into Uppercase or Lowercase
+
+--------------------------------------------------------------------------------------
+
+#The package will also contains some items collected from website. 
+
+
+
+Zhijie Zhang
+Department of Epidemiology and BioStatistics
+School of Public Health
+Fudan University
+Address: 138 Yi Xue Yuan Road, Shanghai,China
+Postcode: 200032
+Tel : 
+Fax : 
+email : epistat@gmail.com
+
+
+OR
+
+Department of Geography
+Faculty of Arts and Science
+Queen's University
+Address: Kingston, Ontario, Canada
+Postcode: K7L 3N6
+
+Tel : 613-533-6000-ext.75050
+Fax : 
+email : zhangzj@queensu.ca
